@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:59:16.959Z",
+  "generated_at": "2026-09-20T10:59:18.436Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -52,6 +52,32 @@
       "last_pushed_at": "2026-04-13T06:35:47.053Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:191": {
+      "kind": "problem",
+      "id": "191",
+      "title": "PCA Color Augmentation",
+      "difficulty": "hard",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/191",
+      "path": "problems/0191-pca-color-augmentation",
+      "first_solved_at": "2026-04-14T12:20:43.167Z",
+      "last_pushed_at": "2026-04-14T12:20:43.167Z",
+      "language": "python",
+      "lines": 33
+    },
+    "problem:151": {
+      "kind": "problem",
+      "id": "151",
+      "title": "Dropout Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/151",
+      "path": "problems/0151-dropout-layer",
+      "first_solved_at": "2026-04-14T15:12:06.305Z",
+      "last_pushed_at": "2026-04-14T15:12:06.305Z",
+      "language": "python",
+      "lines": 47
     }
   }
 }
