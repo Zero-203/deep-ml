@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:59:20.121Z",
+  "generated_at": "2026-09-20T10:59:21.760Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -104,6 +104,32 @@
       "last_pushed_at": "2026-04-15T13:32:34.326Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:114": {
+      "kind": "problem",
+      "id": "114",
+      "title": "Implement Global Average Pooling",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/114",
+      "path": "problems/0114-implement-global-average-pooling",
+      "first_solved_at": "2026-04-16T13:47:05.817Z",
+      "last_pushed_at": "2026-04-16T13:47:05.817Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:115": {
+      "kind": "problem",
+      "id": "115",
+      "title": "Implement Batch Normalization for BCHW Input",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/115",
+      "path": "problems/0115-implement-batch-normalization-for-bchw-input",
+      "first_solved_at": "2026-04-16T14:39:23.483Z",
+      "last_pushed_at": "2026-04-16T14:39:23.483Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
