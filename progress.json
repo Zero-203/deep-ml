@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:59:25.175Z",
+  "generated_at": "2026-09-20T10:59:26.673Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -154,6 +154,32 @@
       "path": "problems/0362-implement-k-means-initialization",
       "first_solved_at": "2026-04-18T07:03:03.062Z",
       "last_pushed_at": "2026-04-18T07:03:03.062Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:157": {
+      "kind": "problem",
+      "id": "157",
+      "title": "Implement the Bellman Equation for Value Iteration",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/157",
+      "path": "problems/0157-implement-the-bellman-equation-for-value-iteration",
+      "first_solved_at": "2026-04-20T06:16:07.990Z",
+      "last_pushed_at": "2026-04-20T06:16:07.990Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:137": {
+      "kind": "problem",
+      "id": "137",
+      "title": "Implement a Dense Block with 2D Convolutions",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/137",
+      "path": "problems/0137-implement-a-dense-block-with-2d-convolutions",
+      "first_solved_at": "2026-04-20T06:28:48.812Z",
+      "last_pushed_at": "2026-04-20T06:28:48.812Z",
       "language": "python",
       "lines": 34
     }

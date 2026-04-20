@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**12** solved · 12 problems · 0 labs · 0 math
+**14** solved · 14 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,9 +20,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-04-16 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement K-Means++ Initialization](https://www.deep-ml.com/problems/362) | medium | 2026-04-18 | [solution](problems/0362-implement-k-means-initialization) |
 | [Implement Local Response Normalization (LRN)](https://www.deep-ml.com/problems/189) | medium | 2026-04-13 | [solution](problems/0189-implement-local-response-normalization-lrn) |
+| [Implement the Bellman Equation for Value Iteration](https://www.deep-ml.com/problems/157) | medium | 2026-04-20 | [solution](problems/0157-implement-the-bellman-equation-for-value-iteration) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-04-13 | [solution](problems/0190-overlapping-max-pooling) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-04-12 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-04-15 | [solution](problems/0025-single-neuron-with-backpropagation) |
+| [Implement a Dense Block with 2D Convolutions](https://www.deep-ml.com/problems/137) | hard | 2026-04-20 | [solution](problems/0137-implement-a-dense-block-with-2d-convolutions) |
 | [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-04-14 | [solution](problems/0191-pca-color-augmentation) |
 
 ---
