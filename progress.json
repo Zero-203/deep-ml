@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:59:28.241Z",
+  "generated_at": "2026-09-20T10:59:29.764Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -195,6 +195,19 @@
       "last_pushed_at": "2026-04-21T03:34:17.079Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:440": {
+      "kind": "problem",
+      "id": "440",
+      "title": "Disaggregated Prefill-Decode Serving Simulator",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/440",
+      "path": "problems/0440-disaggregated-prefill-decode-serving-simulator",
+      "first_solved_at": "2026-04-22T13:04:14.296Z",
+      "last_pushed_at": "2026-04-22T13:04:14.296Z",
+      "language": "python",
+      "lines": 120
     }
   }
 }
