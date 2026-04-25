@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:59:33.086Z",
+  "generated_at": "2026-09-20T10:59:35.089Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -247,6 +247,71 @@
       "last_pushed_at": "2026-04-24T15:43:48.857Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:282": {
+      "kind": "problem",
+      "id": "282",
+      "title": "Calculate SVM Margin Width",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/282",
+      "path": "problems/0282-calculate-svm-margin-width",
+      "first_solved_at": "2026-04-25T05:46:32.380Z",
+      "last_pushed_at": "2026-04-25T05:46:32.380Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:309": {
+      "kind": "problem",
+      "id": "309",
+      "title": "Product Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/309",
+      "path": "problems/0309-product-rule-for-derivatives",
+      "first_solved_at": "2026-04-25T06:18:49.026Z",
+      "last_pushed_at": "2026-04-25T06:18:49.026Z",
+      "language": "python",
+      "lines": 47
+    },
+    "problem:312": {
+      "kind": "problem",
+      "id": "312",
+      "title": "Quotient Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/312",
+      "path": "problems/0312-quotient-rule-for-derivatives",
+      "first_solved_at": "2026-04-25T09:06:20.564Z",
+      "last_pushed_at": "2026-04-25T09:06:20.564Z",
+      "language": "python",
+      "lines": 38
+    },
+    "problem:215": {
+      "kind": "problem",
+      "id": "215",
+      "title": "Partial Derivatives of Multivariable Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/215",
+      "path": "problems/0215-partial-derivatives-of-multivariable-functions",
+      "first_solved_at": "2026-04-25T13:10:16.904Z",
+      "last_pushed_at": "2026-04-25T13:10:16.904Z",
+      "language": "python",
+      "lines": 49
+    },
+    "problem:214": {
+      "kind": "problem",
+      "id": "214",
+      "title": "Chain Rule for Composite Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/214",
+      "path": "problems/0214-chain-rule-for-composite-functions",
+      "first_solved_at": "2026-04-25T13:33:37.007Z",
+      "last_pushed_at": "2026-04-25T13:33:37.007Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
