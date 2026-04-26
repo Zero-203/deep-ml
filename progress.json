@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:59:35.089Z",
+  "generated_at": "2026-09-20T10:59:36.895Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -312,6 +312,84 @@
       "last_pushed_at": "2026-04-25T13:33:37.007Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:333": {
+      "kind": "problem",
+      "id": "333",
+      "title": "LU Decomposition of a Square Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/333",
+      "path": "problems/0333-lu-decomposition-of-a-square-matrix",
+      "first_solved_at": "2026-04-26T05:39:15.123Z",
+      "last_pushed_at": "2026-04-26T05:39:15.123Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:202": {
+      "kind": "problem",
+      "id": "202",
+      "title": "Jacobian Matrix Calculation",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/202",
+      "path": "problems/0202-jacobian-matrix-calculation",
+      "first_solved_at": "2026-04-26T06:09:16.495Z",
+      "last_pushed_at": "2026-04-26T06:09:16.495Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:218": {
+      "kind": "problem",
+      "id": "218",
+      "title": "Compute the Hessian Matrix",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/218",
+      "path": "problems/0218-compute-the-hessian-matrix",
+      "first_solved_at": "2026-04-26T06:36:50.077Z",
+      "last_pushed_at": "2026-04-26T06:36:50.077Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:217": {
+      "kind": "problem",
+      "id": "217",
+      "title": "Derivatives of Activation Functions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/217",
+      "path": "problems/0217-derivatives-of-activation-functions",
+      "first_solved_at": "2026-04-26T13:43:28.224Z",
+      "last_pushed_at": "2026-04-26T13:43:28.224Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:219": {
+      "kind": "problem",
+      "id": "219",
+      "title": "Derivative of Softmax",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/219",
+      "path": "problems/0219-derivative-of-softmax",
+      "first_solved_at": "2026-04-26T13:55:58.084Z",
+      "last_pushed_at": "2026-04-26T13:55:58.084Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:220": {
+      "kind": "problem",
+      "id": "220",
+      "title": "Derivative of Cross-Entropy Loss w.r.t. Logits",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/220",
+      "path": "problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits",
+      "first_solved_at": "2026-04-26T14:17:01.995Z",
+      "last_pushed_at": "2026-04-26T14:17:01.995Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }

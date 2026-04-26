@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**24** solved · 24 problems · 0 labs · 0 math
+**30** solved · 30 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Calculate SVM Margin Width](https://www.deep-ml.com/problems/282) | easy | 2026-04-25 | [solution](problems/0282-calculate-svm-margin-width) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-04-24 | [solution](problems/0116-derivative-of-a-polynomial) |
+| [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-04-26 | [solution](problems/0217-derivatives-of-activation-functions) |
 | [Estimate Action Values Using Sample Averaging](https://www.deep-ml.com/problems/543) | easy | 2026-04-21 | [solution](problems/0543-estimate-action-values-using-sample-averaging) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-04-24 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-04-15 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
@@ -21,11 +22,16 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-04-12 | [solution](problems/0042-implement-relu-activation-function) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-04-17 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-04-25 | [solution](problems/0214-chain-rule-for-composite-functions) |
+| [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-04-26 | [solution](problems/0218-compute-the-hessian-matrix) |
+| [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-04-26 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
+| [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-04-26 | [solution](problems/0219-derivative-of-softmax) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-04-14 | [solution](problems/0151-dropout-layer) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-04-16 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement K-Means++ Initialization](https://www.deep-ml.com/problems/362) | medium | 2026-04-18 | [solution](problems/0362-implement-k-means-initialization) |
 | [Implement Local Response Normalization (LRN)](https://www.deep-ml.com/problems/189) | medium | 2026-04-13 | [solution](problems/0189-implement-local-response-normalization-lrn) |
 | [Implement the Bellman Equation for Value Iteration](https://www.deep-ml.com/problems/157) | medium | 2026-04-20 | [solution](problems/0157-implement-the-bellman-equation-for-value-iteration) |
+| [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-04-26 | [solution](problems/0202-jacobian-matrix-calculation) |
+| [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-04-26 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-04-13 | [solution](problems/0190-overlapping-max-pooling) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-04-25 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-04-25 | [solution](problems/0309-product-rule-for-derivatives) |
