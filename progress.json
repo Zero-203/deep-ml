@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:59:36.895Z",
+  "generated_at": "2026-09-20T10:59:38.964Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -390,6 +390,45 @@
       "last_pushed_at": "2026-04-26T14:17:01.995Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:269": {
+      "kind": "problem",
+      "id": "269",
+      "title": "A/B Test Statistical Analysis for Model Comparison",
+      "difficulty": "hard",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/269",
+      "path": "problems/0269-a-b-test-statistical-analysis-for-model-comparison",
+      "first_solved_at": "2026-04-27T06:12:51.347Z",
+      "last_pushed_at": "2026-04-27T06:12:51.347Z",
+      "language": "python",
+      "lines": 66
+    },
+    "problem:26": {
+      "kind": "problem",
+      "id": "26",
+      "title": "Implementing Basic Autograd Operations",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/26",
+      "path": "problems/0026-implementing-basic-autograd-operations",
+      "first_solved_at": "2026-04-27T08:17:44.380Z",
+      "last_pushed_at": "2026-04-27T08:17:44.380Z",
+      "language": "python",
+      "lines": 51
+    },
+    "problem:313": {
+      "kind": "problem",
+      "id": "313",
+      "title": "Numerical Gradient Checking",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/313",
+      "path": "problems/0313-numerical-gradient-checking",
+      "first_solved_at": "2026-04-27T08:52:55.499Z",
+      "last_pushed_at": "2026-04-27T08:52:55.499Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
