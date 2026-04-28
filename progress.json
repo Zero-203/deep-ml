@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:59:38.964Z",
+  "generated_at": "2026-09-20T10:59:40.641Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -429,6 +429,71 @@
       "last_pushed_at": "2026-04-27T08:52:55.499Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:166": {
+      "kind": "problem",
+      "id": "166",
+      "title": "Evaluate Expected Value in a Markov Decision Process",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/166",
+      "path": "problems/0166-evaluate-expected-value-in-a-markov-decision-process",
+      "first_solved_at": "2026-04-28T12:35:54.961Z",
+      "last_pushed_at": "2026-04-28T12:35:54.961Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-04-28T12:48:50.489Z",
+      "last_pushed_at": "2026-04-28T12:48:50.489Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:47": {
+      "kind": "problem",
+      "id": "47",
+      "title": "Implement Gradient Descent Variants with MSE Loss",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/47",
+      "path": "problems/0047-implement-gradient-descent-variants-with-mse-loss",
+      "first_solved_at": "2026-04-28T13:37:01.197Z",
+      "last_pushed_at": "2026-04-28T13:37:01.197Z",
+      "language": "python",
+      "lines": 55
+    },
+    "problem:146": {
+      "kind": "problem",
+      "id": "146",
+      "title": "Momentum Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/146",
+      "path": "problems/0146-momentum-optimizer",
+      "first_solved_at": "2026-04-28T16:24:52.627Z",
+      "last_pushed_at": "2026-04-28T16:24:52.627Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:310": {
+      "kind": "problem",
+      "id": "310",
+      "title": "Taylor Series Approximation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/310",
+      "path": "problems/0310-taylor-series-approximation",
+      "first_solved_at": "2026-04-28T16:59:00.071Z",
+      "last_pushed_at": "2026-04-28T16:59:00.071Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
