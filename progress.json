@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:59:40.641Z",
+  "generated_at": "2026-09-20T10:59:42.385Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -494,6 +494,45 @@
       "last_pushed_at": "2026-04-28T16:59:00.071Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:417": {
+      "kind": "problem",
+      "id": "417",
+      "title": "Classify LLM Prefill vs Decode as Compute-Bound or Memory-Bound",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/417",
+      "path": "problems/0417-classify-llm-prefill-vs-decode-as-compute-bound-or-memory-bound",
+      "first_solved_at": "2026-04-29T05:14:59.845Z",
+      "last_pushed_at": "2026-04-29T05:14:59.845Z",
+      "language": "python",
+      "lines": 56
+    },
+    "problem:127": {
+      "kind": "problem",
+      "id": "127",
+      "title": "Find Captain Redbeard's Hidden Treasure",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/127",
+      "path": "problems/0127-find-captain-redbeard-s-hidden-treasure",
+      "first_solved_at": "2026-04-29T11:04:44.093Z",
+      "last_pushed_at": "2026-04-29T11:04:44.093Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:221": {
+      "kind": "problem",
+      "id": "221",
+      "title": "Newton's Method for Optimization",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/221",
+      "path": "problems/0221-newton-s-method-for-optimization",
+      "first_solved_at": "2026-04-29T11:35:40.706Z",
+      "last_pushed_at": "2026-04-29T11:35:40.706Z",
+      "language": "python",
+      "lines": 36
     }
   }
 }
