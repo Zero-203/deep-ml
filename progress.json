@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:59:43.912Z",
+  "generated_at": "2026-09-20T10:59:45.497Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -546,6 +546,45 @@
       "last_pushed_at": "2026-04-30T06:56:36.963Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:743": {
+      "kind": "problem",
+      "id": "743",
+      "title": "Storage-Pointer-Based Recomputation Deduplication",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/743",
+      "path": "problems/0743-storage-pointer-based-recomputation-deduplication",
+      "first_solved_at": "2026-05-01T10:38:35.469Z",
+      "last_pushed_at": "2026-05-01T10:38:35.469Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:311": {
+      "kind": "problem",
+      "id": "311",
+      "title": "Classify Critical Points Using Hessian Eigenvalues",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/311",
+      "path": "problems/0311-classify-critical-points-using-hessian-eigenvalues",
+      "first_solved_at": "2026-05-01T11:03:34.344Z",
+      "last_pushed_at": "2026-05-01T11:03:34.344Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:314": {
+      "kind": "problem",
+      "id": "314",
+      "title": "Lagrange Multipliers for Constrained Quadratic Optimization",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/314",
+      "path": "problems/0314-lagrange-multipliers-for-constrained-quadratic-optimization",
+      "first_solved_at": "2026-05-01T11:47:36.329Z",
+      "last_pushed_at": "2026-05-01T11:47:36.329Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
