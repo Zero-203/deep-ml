@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**45** solved · 45 problems · 0 labs · 0 math
+**49** solved · 46 problems · 3 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -26,6 +26,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-04-17 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-04-28 | [solution](problems/0146-momentum-optimizer) |
 | [Sampling Distribution of the Mean](https://www.deep-ml.com/problems/181) | easy | 2026-04-30 | [solution](problems/0181-sampling-distribution-of-the-mean) |
+| [Step-Size Selection for Tile Coding](https://www.deep-ml.com/problems/608) | easy | 2026-05-02 | [solution](problems/0608-step-size-selection-for-tile-coding) |
 | [Taylor Series Approximation](https://www.deep-ml.com/problems/310) | easy | 2026-04-28 | [solution](problems/0310-taylor-series-approximation) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-04-25 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Classify Critical Points Using Hessian Eigenvalues](https://www.deep-ml.com/problems/311) | medium | 2026-05-01 | [solution](problems/0311-classify-critical-points-using-hessian-eigenvalues) |
@@ -59,6 +60,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Disaggregated Prefill-Decode Serving Simulator](https://www.deep-ml.com/problems/440) | hard | 2026-04-22 | [solution](problems/0440-disaggregated-prefill-decode-serving-simulator) |
 | [Implement a Dense Block with 2D Convolutions](https://www.deep-ml.com/problems/137) | hard | 2026-04-20 | [solution](problems/0137-implement-a-dense-block-with-2d-convolutions) |
 | [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-04-14 | [solution](problems/0191-pca-color-augmentation) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-05-02 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
+| [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-05-02 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
+| [MNIST: Classification Loss (with Gradient)](https://www.deep-ml.com/labs/4) | hard | 2026-05-02 | [solution](labs/0004-mnist-classification-loss-with-gradient) |
 
 ---
 

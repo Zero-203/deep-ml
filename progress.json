@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:59:45.497Z",
+  "generated_at": "2026-09-20T10:59:47.302Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -585,6 +585,58 @@
       "last_pushed_at": "2026-05-01T11:47:36.329Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:608": {
+      "kind": "problem",
+      "id": "608",
+      "title": "Step-Size Selection for Tile Coding",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/608",
+      "path": "problems/0608-step-size-selection-for-tile-coding",
+      "first_solved_at": "2026-05-02T06:05:48.400Z",
+      "last_pushed_at": "2026-05-02T06:05:48.400Z",
+      "language": "python",
+      "lines": 42
+    },
+    "lab:4": {
+      "kind": "lab",
+      "id": "4",
+      "title": "MNIST: Classification Loss (with Gradient)",
+      "difficulty": "hard",
+      "category": "Loss Functions",
+      "url": "https://www.deep-ml.com/labs/4",
+      "path": "labs/0004-mnist-classification-loss-with-gradient",
+      "first_solved_at": "2026-05-02T06:31:11.396Z",
+      "last_pushed_at": "2026-05-02T06:31:11.396Z",
+      "language": "python",
+      "lines": 36
+    },
+    "lab:12": {
+      "kind": "lab",
+      "id": "12",
+      "title": "PyTorch: Implement Your Own Gradient Descent Training Step",
+      "difficulty": "medium",
+      "category": "PyTorch Fundamentals",
+      "url": "https://www.deep-ml.com/labs/12",
+      "path": "labs/0012-pytorch-implement-your-own-gradient-descent-training-step",
+      "first_solved_at": "2026-05-02T12:17:30.215Z",
+      "last_pushed_at": "2026-05-02T12:17:30.215Z",
+      "language": "python",
+      "lines": 62
+    },
+    "lab:13": {
+      "kind": "lab",
+      "id": "13",
+      "title": "PyTorch: Build a Complete Training Loop",
+      "difficulty": "easy",
+      "category": "PyTorch Fundamentals",
+      "url": "https://www.deep-ml.com/labs/13",
+      "path": "labs/0013-pytorch-build-a-complete-training-loop",
+      "first_solved_at": "2026-05-02T13:21:17.243Z",
+      "last_pushed_at": "2026-05-02T13:21:17.243Z",
+      "language": "python",
+      "lines": 102
     }
   }
 }
