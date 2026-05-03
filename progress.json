@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:59:47.302Z",
+  "generated_at": "2026-09-20T10:59:48.991Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -637,6 +637,71 @@
       "last_pushed_at": "2026-05-02T13:21:17.243Z",
       "language": "python",
       "lines": 102
+    },
+    "problem:745": {
+      "kind": "problem",
+      "id": "745",
+      "title": "Multi-Token Prediction Training Objective",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/745",
+      "path": "problems/0745-multi-token-prediction-training-objective",
+      "first_solved_at": "2026-05-03T03:37:11.745Z",
+      "last_pushed_at": "2026-05-03T03:37:11.745Z",
+      "language": "python",
+      "lines": 51
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-05-03T08:46:19.580Z",
+      "last_pushed_at": "2026-05-03T08:46:19.580Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-05-03T08:47:49.721Z",
+      "last_pushed_at": "2026-05-03T08:47:49.721Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:118": {
+      "kind": "problem",
+      "id": "118",
+      "title": "Compute the Cross Product of Two 3D Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/118",
+      "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
+      "first_solved_at": "2026-05-03T08:50:06.559Z",
+      "last_pushed_at": "2026-05-03T08:50:06.559Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-05-03T08:59:47.541Z",
+      "last_pushed_at": "2026-05-03T08:59:47.541Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
