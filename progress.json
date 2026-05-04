@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:59:48.991Z",
+  "generated_at": "2026-09-20T10:59:50.626Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -702,6 +702,32 @@
       "last_pushed_at": "2026-05-03T08:59:47.541Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:327": {
+      "kind": "problem",
+      "id": "327",
+      "title": "Engram Context-Aware Gating",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/327",
+      "path": "problems/0327-engram-context-aware-gating",
+      "first_solved_at": "2026-05-04T03:17:19.389Z",
+      "last_pushed_at": "2026-05-04T03:17:19.389Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:330": {
+      "kind": "problem",
+      "id": "330",
+      "title": "Compute the Null Space (Kernel) of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/330",
+      "path": "problems/0330-compute-the-null-space-kernel-of-a-matrix",
+      "first_solved_at": "2026-05-04T03:48:19.616Z",
+      "last_pushed_at": "2026-05-04T03:48:19.616Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
