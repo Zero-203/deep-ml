@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**59** solved · 54 problems · 3 labs · 2 math
+**69** solved · 64 problems · 3 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,9 +14,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-05-06 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-05-03 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
+| [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-05-06 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate SVM Margin Width](https://www.deep-ml.com/problems/282) | easy | 2026-04-25 | [solution](problems/0282-calculate-svm-margin-width) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-05-03 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
+| [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-05-06 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-04-24 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-04-26 | [solution](problems/0217-derivatives-of-activation-functions) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-05-03 | [solution](problems/0083-dot-product-calculator) |
@@ -26,12 +29,17 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-04-16 | [solution](problems/0114-implement-global-average-pooling) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-04-12 | [solution](problems/0042-implement-relu-activation-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-04-28 | [solution](problems/0015-linear-regression-using-gradient-descent) |
+| [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-05-06 | [solution](problems/0195-matrix-determinant-trace) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-04-17 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-04-28 | [solution](problems/0146-momentum-optimizer) |
+| [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-05-06 | [solution](problems/0003-reshape-matrix) |
 | [Sampling Distribution of the Mean](https://www.deep-ml.com/problems/181) | easy | 2026-04-30 | [solution](problems/0181-sampling-distribution-of-the-mean) |
+| [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-05-06 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Step-Size Selection for Tile Coding](https://www.deep-ml.com/problems/608) | easy | 2026-05-02 | [solution](problems/0608-step-size-selection-for-tile-coding) |
 | [Taylor Series Approximation](https://www.deep-ml.com/problems/310) | easy | 2026-04-28 | [solution](problems/0310-taylor-series-approximation) |
+| [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-05-06 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-05-03 | [solution](problems/0121-vector-element-wise-sum) |
+| [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-05-06 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-04-25 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Classify Critical Points Using Hessian Eigenvalues](https://www.deep-ml.com/problems/311) | medium | 2026-05-01 | [solution](problems/0311-classify-critical-points-using-hessian-eigenvalues) |
 | [Classify LLM Prefill vs Decode as Compute-Bound or Memory-Bound](https://www.deep-ml.com/problems/417) | medium | 2026-04-29 | [solution](problems/0417-classify-llm-prefill-vs-decode-as-compute-bound-or-memory-bound) |
@@ -51,8 +59,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Bellman Equation for Value Iteration](https://www.deep-ml.com/problems/157) | medium | 2026-04-20 | [solution](problems/0157-implement-the-bellman-equation-for-value-iteration) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-04-27 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-04-26 | [solution](problems/0202-jacobian-matrix-calculation) |
+| [Jensen-Shannon Divergence](https://www.deep-ml.com/problems/203) | medium | 2026-05-06 | [solution](problems/0203-jensen-shannon-divergence) |
 | [Lagrange Multipliers for Constrained Quadratic Optimization](https://www.deep-ml.com/problems/314) | medium | 2026-05-01 | [solution](problems/0314-lagrange-multipliers-for-constrained-quadratic-optimization) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-04-26 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
+| [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-05-06 | [solution](problems/0009-matrix-times-matrix) |
 | [Multi-Token Prediction Training Objective](https://www.deep-ml.com/problems/745) | medium | 2026-05-03 | [solution](problems/0745-multi-token-prediction-training-objective) |
 | [Newton's Method for Optimization](https://www.deep-ml.com/problems/221) | medium | 2026-04-29 | [solution](problems/0221-newton-s-method-for-optimization) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-04-27 | [solution](problems/0313-numerical-gradient-checking) |
