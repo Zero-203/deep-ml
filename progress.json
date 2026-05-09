@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:30:10.828Z",
+  "generated_at": "2026-09-22T07:30:12.401Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -919,6 +919,19 @@
       "last_pushed_at": "2026-05-08T09:37:04.374Z",
       "language": "python",
       "lines": 70
+    },
+    "problem:717": {
+      "kind": "problem",
+      "id": "717",
+      "title": "Inverse Dynamics Model for Unsupervised Action Labeling",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/717",
+      "path": "problems/0717-inverse-dynamics-model-for-unsupervised-action-labeling",
+      "first_solved_at": "2026-05-09T12:00:16.642Z",
+      "last_pushed_at": "2026-05-09T12:00:16.642Z",
+      "language": "python",
+      "lines": 55
     }
   }
 }
