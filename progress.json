@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:30:12.401Z",
+  "generated_at": "2026-09-22T07:30:14.002Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -932,6 +932,58 @@
       "last_pushed_at": "2026-05-09T12:00:16.642Z",
       "language": "python",
       "lines": 55
+    },
+    "problem:767": {
+      "kind": "problem",
+      "id": "767",
+      "title": "N-gram Overlap Contamination Detection",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/767",
+      "path": "problems/0767-n-gram-overlap-contamination-detection",
+      "first_solved_at": "2026-05-10T01:49:58.055Z",
+      "last_pushed_at": "2026-05-10T01:49:58.055Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:329": {
+      "kind": "problem",
+      "id": "329",
+      "title": "Matrix Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/329",
+      "path": "problems/0329-matrix-rank",
+      "first_solved_at": "2026-05-10T07:48:37.171Z",
+      "last_pushed_at": "2026-05-10T07:48:37.171Z",
+      "language": "python",
+      "lines": 33
+    },
+    "problem:331": {
+      "kind": "problem",
+      "id": "331",
+      "title": "Check Linear Independence of Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/331",
+      "path": "problems/0331-check-linear-independence-of-vectors",
+      "first_solved_at": "2026-05-10T07:57:14.385Z",
+      "last_pushed_at": "2026-05-10T07:57:14.385Z",
+      "language": "python",
+      "lines": 38
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-05-10T08:03:41.788Z",
+      "last_pushed_at": "2026-05-10T08:03:41.788Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
