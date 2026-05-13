@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:30:17.530Z",
+  "generated_at": "2026-09-22T07:30:19.344Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1010,6 +1010,32 @@
       "last_pushed_at": "2026-05-12T12:57:53.560Z",
       "language": "python",
       "lines": 61
+    },
+    "problem:285": {
+      "kind": "problem",
+      "id": "285",
+      "title": "Decision Tree Pruning with Cost-Complexity",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/285",
+      "path": "problems/0285-decision-tree-pruning-with-cost-complexity",
+      "first_solved_at": "2026-05-13T02:31:58.180Z",
+      "last_pushed_at": "2026-05-13T02:31:58.180Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:58": {
+      "kind": "problem",
+      "id": "58",
+      "title": "Gaussian Elimination for Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/58",
+      "path": "problems/0058-gaussian-elimination-for-solving-linear-systems",
+      "first_solved_at": "2026-05-13T09:30:47.401Z",
+      "last_pushed_at": "2026-05-13T09:30:47.401Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
