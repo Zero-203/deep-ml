@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:30:19.344Z",
+  "generated_at": "2026-09-22T07:30:20.921Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1036,6 +1036,19 @@
       "last_pushed_at": "2026-05-13T09:30:47.401Z",
       "language": "python",
       "lines": 38
+    },
+    "problem:851": {
+      "kind": "problem",
+      "id": "851",
+      "title": "Train a Sparse Autoencoder on Residual-Stream Activations",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/851",
+      "path": "problems/0851-train-a-sparse-autoencoder-on-residual-stream-activations",
+      "first_solved_at": "2026-05-14T11:53:26.294Z",
+      "last_pushed_at": "2026-05-14T11:53:26.294Z",
+      "language": "python",
+      "lines": 48
     }
   }
 }

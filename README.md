@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**80** solved · 75 problems · 3 labs · 2 math
+**81** solved · 76 problems · 3 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -83,6 +83,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-04-12 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-04-15 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Storage-Pointer-Based Recomputation Deduplication](https://www.deep-ml.com/problems/743) | medium | 2026-05-01 | [solution](problems/0743-storage-pointer-based-recomputation-deduplication) |
+| [Train a Sparse Autoencoder on Residual-Stream Activations](https://www.deep-ml.com/problems/851) | medium | 2026-05-14 | [solution](problems/0851-train-a-sparse-autoencoder-on-residual-stream-activations) |
 | [A/B Test Statistical Analysis for Model Comparison](https://www.deep-ml.com/problems/269) | hard | 2026-04-27 | [solution](problems/0269-a-b-test-statistical-analysis-for-model-comparison) |
 | [Disaggregated Prefill-Decode Serving Simulator](https://www.deep-ml.com/problems/440) | hard | 2026-04-22 | [solution](problems/0440-disaggregated-prefill-decode-serving-simulator) |
 | [Implement a Dense Block with 2D Convolutions](https://www.deep-ml.com/problems/137) | hard | 2026-04-20 | [solution](problems/0137-implement-a-dense-block-with-2d-convolutions) |
