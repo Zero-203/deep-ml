@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**82** solved · 77 problems · 3 labs · 2 math
+**83** solved · 78 problems · 3 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -57,6 +57,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-04-29 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-05-13 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Gridworld Policy Evaluation](https://www.deep-ml.com/problems/142) | medium | 2026-05-15 | [solution](problems/0142-gridworld-policy-evaluation) |
+| [Hash Function for Tile Coding](https://www.deep-ml.com/problems/644) | medium | 2026-05-16 | [solution](problems/0644-hash-function-for-tile-coding) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-04-16 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-04-28 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-05-05 | [solution](problems/0018-implement-k-fold-cross-validation) |
