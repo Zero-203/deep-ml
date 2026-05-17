@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**83** solved · 78 problems · 3 labs · 2 math
+**84** solved · 79 problems · 3 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -70,6 +70,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-04-26 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Jensen-Shannon Divergence](https://www.deep-ml.com/problems/203) | medium | 2026-05-06 | [solution](problems/0203-jensen-shannon-divergence) |
 | [Lagrange Multipliers for Constrained Quadratic Optimization](https://www.deep-ml.com/problems/314) | medium | 2026-05-01 | [solution](problems/0314-lagrange-multipliers-for-constrained-quadratic-optimization) |
+| [Lock-Free Synchronization with Shared Flags](https://www.deep-ml.com/problems/658) | medium | 2026-05-17 | [solution](problems/0658-lock-free-synchronization-with-shared-flags) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-04-26 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-05-10 | [solution](problems/0329-matrix-rank) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-05-06 | [solution](problems/0009-matrix-times-matrix) |

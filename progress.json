@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:30:24.090Z",
+  "generated_at": "2026-09-22T07:30:25.683Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1075,6 +1075,19 @@
       "last_pushed_at": "2026-05-16T17:08:56.480Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:658": {
+      "kind": "problem",
+      "id": "658",
+      "title": "Lock-Free Synchronization with Shared Flags",
+      "difficulty": "medium",
+      "category": "Systems Programming",
+      "url": "https://www.deep-ml.com/problems/658",
+      "path": "problems/0658-lock-free-synchronization-with-shared-flags",
+      "first_solved_at": "2026-05-17T17:28:36.159Z",
+      "last_pushed_at": "2026-05-17T17:28:36.159Z",
+      "language": "python",
+      "lines": 72
     }
   }
 }
