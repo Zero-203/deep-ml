@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**84** solved · 79 problems · 3 labs · 2 math
+**88** solved · 83 problems · 3 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sampling Distribution of the Mean](https://www.deep-ml.com/problems/181) | easy | 2026-04-30 | [solution](problems/0181-sampling-distribution-of-the-mean) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-05-06 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Step-Size Selection for Tile Coding](https://www.deep-ml.com/problems/608) | easy | 2026-05-02 | [solution](problems/0608-step-size-selection-for-tile-coding) |
+| [Stop-Gradient Operator in Jointly Trained Models](https://www.deep-ml.com/problems/711) | easy | 2026-05-18 | [solution](problems/0711-stop-gradient-operator-in-jointly-trained-models) |
 | [Taylor Series Approximation](https://www.deep-ml.com/problems/310) | easy | 2026-04-28 | [solution](problems/0310-taylor-series-approximation) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-05-06 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-05-03 | [solution](problems/0121-vector-element-wise-sum) |
@@ -55,6 +56,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Engram Context-Aware Gating](https://www.deep-ml.com/problems/327) | medium | 2026-05-04 | [solution](problems/0327-engram-context-aware-gating) |
 | [Evaluate Expected Value in a Markov Decision Process](https://www.deep-ml.com/problems/166) | medium | 2026-04-28 | [solution](problems/0166-evaluate-expected-value-in-a-markov-decision-process) |
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-04-29 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
+| [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-05-18 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-05-13 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Gridworld Policy Evaluation](https://www.deep-ml.com/problems/142) | medium | 2026-05-15 | [solution](problems/0142-gridworld-policy-evaluation) |
 | [Hash Function for Tile Coding](https://www.deep-ml.com/problems/644) | medium | 2026-05-16 | [solution](problems/0644-hash-function-for-tile-coding) |
@@ -64,6 +66,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement K-Means++ Initialization](https://www.deep-ml.com/problems/362) | medium | 2026-04-18 | [solution](problems/0362-implement-k-means-initialization) |
 | [Implement Local Response Normalization (LRN)](https://www.deep-ml.com/problems/189) | medium | 2026-04-13 | [solution](problems/0189-implement-local-response-normalization-lrn) |
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2026-05-07 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
+| [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-05-18 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Implement the Bellman Equation for Value Iteration](https://www.deep-ml.com/problems/157) | medium | 2026-04-20 | [solution](problems/0157-implement-the-bellman-equation-for-value-iteration) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-04-27 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Inverse Dynamics Model for Unsupervised Action Labeling](https://www.deep-ml.com/problems/717) | medium | 2026-05-09 | [solution](problems/0717-inverse-dynamics-model-for-unsupervised-action-labeling) |
@@ -85,6 +88,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Rotary Positional Embeddings (RoPE)](https://www.deep-ml.com/problems/381) | medium | 2026-04-23 | [solution](problems/0381-rotary-positional-embeddings-rope) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-04-12 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-04-15 | [solution](problems/0025-single-neuron-with-backpropagation) |
+| [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-05-18 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Storage-Pointer-Based Recomputation Deduplication](https://www.deep-ml.com/problems/743) | medium | 2026-05-01 | [solution](problems/0743-storage-pointer-based-recomputation-deduplication) |
 | [Train a Sparse Autoencoder on Residual-Stream Activations](https://www.deep-ml.com/problems/851) | medium | 2026-05-14 | [solution](problems/0851-train-a-sparse-autoencoder-on-residual-stream-activations) |
 | [A/B Test Statistical Analysis for Model Comparison](https://www.deep-ml.com/problems/269) | hard | 2026-04-27 | [solution](problems/0269-a-b-test-statistical-analysis-for-model-comparison) |

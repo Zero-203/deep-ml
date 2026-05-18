@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:30:25.683Z",
+  "generated_at": "2026-09-22T07:30:27.353Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1088,6 +1088,58 @@
       "last_pushed_at": "2026-05-17T17:28:36.159Z",
       "language": "python",
       "lines": 72
+    },
+    "problem:711": {
+      "kind": "problem",
+      "id": "711",
+      "title": "Stop-Gradient Operator in Jointly Trained Models",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/711",
+      "path": "problems/0711-stop-gradient-operator-in-jointly-trained-models",
+      "first_solved_at": "2026-05-18T08:41:31.743Z",
+      "last_pushed_at": "2026-05-18T08:41:31.743Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:48": {
+      "kind": "problem",
+      "id": "48",
+      "title": "Implement Reduced Row Echelon Form (RREF) Function",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/48",
+      "path": "problems/0048-implement-reduced-row-echelon-form-rref-function",
+      "first_solved_at": "2026-05-18T11:38:40.265Z",
+      "last_pushed_at": "2026-05-18T11:38:40.265Z",
+      "language": "python",
+      "lines": 50
+    },
+    "problem:11": {
+      "kind": "problem",
+      "id": "11",
+      "title": "Solve Linear Equations using Jacobi Method",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/11",
+      "path": "problems/0011-solve-linear-equations-using-jacobi-method",
+      "first_solved_at": "2026-05-18T11:52:14.024Z",
+      "last_pushed_at": "2026-05-18T11:52:14.024Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:57": {
+      "kind": "problem",
+      "id": "57",
+      "title": "Gauss-Seidel Method for Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/57",
+      "path": "problems/0057-gauss-seidel-method-for-solving-linear-systems",
+      "first_solved_at": "2026-05-18T15:58:14.075Z",
+      "last_pushed_at": "2026-05-18T15:58:14.075Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
