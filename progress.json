@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:30:27.353Z",
+  "generated_at": "2026-09-22T07:30:29.075Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1140,6 +1140,58 @@
       "last_pushed_at": "2026-05-18T15:58:14.075Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:871": {
+      "kind": "problem",
+      "id": "871",
+      "title": "Efficient Task Switching with LoRA Weight Swapping",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/871",
+      "path": "problems/0871-efficient-task-switching-with-lora-weight-swapping",
+      "first_solved_at": "2026-05-19T02:57:29.911Z",
+      "last_pushed_at": "2026-05-19T02:57:29.911Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2026-05-19T03:34:30.652Z",
+      "last_pushed_at": "2026-05-19T03:34:30.652Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:117": {
+      "kind": "problem",
+      "id": "117",
+      "title": "Compute Orthonormal Basis for 2D Vectors",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/117",
+      "path": "problems/0117-compute-orthonormal-basis-for-2d-vectors",
+      "first_solved_at": "2026-05-19T10:36:16.428Z",
+      "last_pushed_at": "2026-05-19T10:36:16.428Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:332": {
+      "kind": "problem",
+      "id": "332",
+      "title": "Check if Matrix is Positive Definite",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/332",
+      "path": "problems/0332-check-if-matrix-is-positive-definite",
+      "first_solved_at": "2026-05-19T10:57:11.338Z",
+      "last_pushed_at": "2026-05-19T10:57:11.338Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }

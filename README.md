@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**88** solved · 83 problems · 3 labs · 2 math
+**92** solved · 87 problems · 3 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-04-24 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-04-15 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-04-16 | [solution](problems/0114-implement-global-average-pooling) |
+| [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-05-19 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-04-12 | [solution](problems/0042-implement-relu-activation-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-04-28 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-05-06 | [solution](problems/0195-matrix-determinant-trace) |
@@ -45,14 +46,17 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [BLEU Score for Text Generation](https://www.deep-ml.com/problems/321) | medium | 2026-05-08 | [solution](problems/0321-bleu-score-for-text-generation) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-05-10 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-04-25 | [solution](problems/0214-chain-rule-for-composite-functions) |
+| [Check if Matrix is Positive Definite](https://www.deep-ml.com/problems/332) | medium | 2026-05-19 | [solution](problems/0332-check-if-matrix-is-positive-definite) |
 | [Classify Critical Points Using Hessian Eigenvalues](https://www.deep-ml.com/problems/311) | medium | 2026-05-01 | [solution](problems/0311-classify-critical-points-using-hessian-eigenvalues) |
 | [Classify LLM Prefill vs Decode as Compute-Bound or Memory-Bound](https://www.deep-ml.com/problems/417) | medium | 2026-04-29 | [solution](problems/0417-classify-llm-prefill-vs-decode-as-compute-bound-or-memory-bound) |
+| [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-05-19 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-04-26 | [solution](problems/0218-compute-the-hessian-matrix) |
 | [Compute the Null Space (Kernel) of a Matrix](https://www.deep-ml.com/problems/330) | medium | 2026-05-04 | [solution](problems/0330-compute-the-null-space-kernel-of-a-matrix) |
 | [Decision Tree Pruning with Cost-Complexity](https://www.deep-ml.com/problems/285) | medium | 2026-05-13 | [solution](problems/0285-decision-tree-pruning-with-cost-complexity) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-04-26 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-04-26 | [solution](problems/0219-derivative-of-softmax) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-04-14 | [solution](problems/0151-dropout-layer) |
+| [Efficient Task Switching with LoRA Weight Swapping](https://www.deep-ml.com/problems/871) | medium | 2026-05-19 | [solution](problems/0871-efficient-task-switching-with-lora-weight-swapping) |
 | [Engram Context-Aware Gating](https://www.deep-ml.com/problems/327) | medium | 2026-05-04 | [solution](problems/0327-engram-context-aware-gating) |
 | [Evaluate Expected Value in a Markov Decision Process](https://www.deep-ml.com/problems/166) | medium | 2026-04-28 | [solution](problems/0166-evaluate-expected-value-in-a-markov-decision-process) |
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-04-29 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
