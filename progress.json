@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:30:29.075Z",
+  "generated_at": "2026-09-22T07:30:30.807Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1192,6 +1192,58 @@
       "last_pushed_at": "2026-05-19T10:57:11.338Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:677": {
+      "kind": "problem",
+      "id": "677",
+      "title": "Handling Variable Environment Reset Times",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/677",
+      "path": "problems/0677-handling-variable-environment-reset-times",
+      "first_solved_at": "2026-05-20T02:44:19.459Z",
+      "last_pushed_at": "2026-05-20T02:44:19.459Z",
+      "language": "python",
+      "lines": 46
+    },
+    "problem:12": {
+      "kind": "problem",
+      "id": "12",
+      "title": "Singular Value Decomposition (SVD) of 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/12",
+      "path": "problems/0012-singular-value-decomposition-svd-of-2x2-matrix",
+      "first_solved_at": "2026-05-20T05:10:43.320Z",
+      "last_pushed_at": "2026-05-20T05:10:43.320Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:201": {
+      "kind": "problem",
+      "id": "201",
+      "title": "QR Decomposition",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/201",
+      "path": "problems/0201-qr-decomposition",
+      "first_solved_at": "2026-05-20T11:40:04.278Z",
+      "last_pushed_at": "2026-05-20T11:40:04.278Z",
+      "language": "python",
+      "lines": 46
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-05-20T12:10:26.011Z",
+      "last_pushed_at": "2026-05-20T12:10:26.011Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }

@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**92** solved · 87 problems · 3 labs · 2 math
+**96** solved · 91 problems · 3 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-05-06 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-05-03 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
+| [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-05-20 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-05-06 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate SVM Margin Width](https://www.deep-ml.com/problems/282) | easy | 2026-04-25 | [solution](problems/0282-calculate-svm-margin-width) |
 | [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-05-10 | [solution](problems/0331-check-linear-independence-of-vectors) |
@@ -63,6 +64,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-05-18 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-05-13 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Gridworld Policy Evaluation](https://www.deep-ml.com/problems/142) | medium | 2026-05-15 | [solution](problems/0142-gridworld-policy-evaluation) |
+| [Handling Variable Environment Reset Times](https://www.deep-ml.com/problems/677) | medium | 2026-05-20 | [solution](problems/0677-handling-variable-environment-reset-times) |
 | [Hash Function for Tile Coding](https://www.deep-ml.com/problems/644) | medium | 2026-05-16 | [solution](problems/0644-hash-function-for-tile-coding) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-04-16 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-04-28 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
@@ -101,6 +103,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Intra-Option Q-Learning for Temporal Abstraction](https://www.deep-ml.com/problems/652) | hard | 2026-05-12 | [solution](problems/0652-intra-option-q-learning-for-temporal-abstraction) |
 | [Natural Policy Gradient](https://www.deep-ml.com/problems/569) | hard | 2026-05-11 | [solution](problems/0569-natural-policy-gradient) |
 | [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-04-14 | [solution](problems/0191-pca-color-augmentation) |
+| [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-05-20 | [solution](problems/0201-qr-decomposition) |
+| [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-05-20 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 
 ## Labs
 
