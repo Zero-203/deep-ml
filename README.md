@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**96** solved · 91 problems · 3 labs · 2 math
+**99** solved · 93 problems · 4 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -26,6 +26,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-04-26 | [solution](problems/0217-derivatives-of-activation-functions) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-05-03 | [solution](problems/0083-dot-product-calculator) |
 | [Estimate Action Values Using Sample Averaging](https://www.deep-ml.com/problems/543) | easy | 2026-04-21 | [solution](problems/0543-estimate-action-values-using-sample-averaging) |
+| [Estimate Minimum GPU Count for Model Deployment](https://www.deep-ml.com/problems/412) | easy | 2026-05-21 | [solution](problems/0412-estimate-minimum-gpu-count-for-model-deployment) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-04-24 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-04-15 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-04-16 | [solution](problems/0114-implement-global-average-pooling) |
@@ -45,6 +46,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-05-03 | [solution](problems/0121-vector-element-wise-sum) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-05-06 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [BLEU Score for Text Generation](https://www.deep-ml.com/problems/321) | medium | 2026-05-08 | [solution](problems/0321-bleu-score-for-text-generation) |
+| [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-05-21 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-05-10 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-04-25 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Check if Matrix is Positive Definite](https://www.deep-ml.com/problems/332) | medium | 2026-05-19 | [solution](problems/0332-check-if-matrix-is-positive-definite) |
@@ -111,6 +113,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-05-02 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
+| [Numpy: Design Your Own Dimensionality Reduction](https://www.deep-ml.com/labs/14) | medium | 2026-05-21 | [solution](labs/0014-numpy-design-your-own-dimensionality-reduction) |
 | [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-05-02 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
 | [MNIST: Classification Loss (with Gradient)](https://www.deep-ml.com/labs/4) | hard | 2026-05-02 | [solution](labs/0004-mnist-classification-loss-with-gradient) |
 

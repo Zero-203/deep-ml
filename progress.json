@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:30:30.807Z",
+  "generated_at": "2026-09-22T07:30:32.918Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1244,6 +1244,45 @@
       "last_pushed_at": "2026-05-20T12:10:26.011Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:412": {
+      "kind": "problem",
+      "id": "412",
+      "title": "Estimate Minimum GPU Count for Model Deployment",
+      "difficulty": "easy",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/412",
+      "path": "problems/0412-estimate-minimum-gpu-count-for-model-deployment",
+      "first_solved_at": "2026-05-21T02:20:42.716Z",
+      "last_pushed_at": "2026-05-21T02:20:42.716Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:37": {
+      "kind": "problem",
+      "id": "37",
+      "title": "Calculate Correlation Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/37",
+      "path": "problems/0037-calculate-correlation-matrix",
+      "first_solved_at": "2026-05-21T02:57:48.605Z",
+      "last_pushed_at": "2026-05-21T02:57:48.605Z",
+      "language": "python",
+      "lines": 20
+    },
+    "lab:14": {
+      "kind": "lab",
+      "id": "14",
+      "title": "Numpy: Design Your Own Dimensionality Reduction",
+      "difficulty": "medium",
+      "category": "Dimensionality Reduction",
+      "url": "https://www.deep-ml.com/labs/14",
+      "path": "labs/0014-numpy-design-your-own-dimensionality-reduction",
+      "first_solved_at": "2026-05-21T14:12:23.559Z",
+      "last_pushed_at": "2026-05-21T14:12:23.559Z",
+      "language": "python",
+      "lines": 55
     }
   }
 }
