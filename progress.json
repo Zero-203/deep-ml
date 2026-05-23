@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:30:32.918Z",
+  "generated_at": "2026-09-22T07:30:34.487Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1283,6 +1283,45 @@
       "last_pushed_at": "2026-05-21T14:12:23.559Z",
       "language": "python",
       "lines": 55
+    },
+    "problem:1022": {
+      "kind": "problem",
+      "id": "1022",
+      "title": "L2 Normalization Along an Axis",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1022",
+      "path": "problems/1022-l2-normalization-along-an-axis",
+      "first_solved_at": "2026-05-23T05:47:05.686Z",
+      "last_pushed_at": "2026-05-23T05:47:05.686Z",
+      "language": "python",
+      "lines": 18
+    },
+    "lab:15": {
+      "kind": "lab",
+      "id": "15",
+      "title": "Dimensionality Reduction with Sklearn",
+      "difficulty": "easy",
+      "category": "Dimensionality Reduction",
+      "url": "https://www.deep-ml.com/labs/15",
+      "path": "labs/0015-dimensionality-reduction-with-sklearn",
+      "first_solved_at": "2026-05-23T12:37:52.846Z",
+      "last_pushed_at": "2026-05-23T12:37:52.846Z",
+      "language": "python",
+      "lines": 59
+    },
+    "problem:78": {
+      "kind": "problem",
+      "id": "78",
+      "title": "Descriptive Statistics Calculator",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/78",
+      "path": "problems/0078-descriptive-statistics-calculator",
+      "first_solved_at": "2026-05-23T17:36:59.035Z",
+      "last_pushed_at": "2026-05-23T17:36:59.035Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
