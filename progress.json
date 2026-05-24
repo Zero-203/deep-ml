@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:30:34.487Z",
+  "generated_at": "2026-09-22T07:30:36.121Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1322,6 +1322,32 @@
       "last_pushed_at": "2026-05-23T17:36:59.035Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:293": {
+      "kind": "problem",
+      "id": "293",
+      "title": "Calculate P50/P95/P99 Latency Percentiles",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/293",
+      "path": "problems/0293-calculate-p50-p95-p99-latency-percentiles",
+      "first_solved_at": "2026-05-24T07:35:30.427Z",
+      "last_pushed_at": "2026-05-24T07:35:30.427Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:1056": {
+      "kind": "problem",
+      "id": "1056",
+      "title": "Pre-Norm GPT Transformer Block Forward Pass",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1056",
+      "path": "problems/1056-pre-norm-gpt-transformer-block-forward-pass",
+      "first_solved_at": "2026-05-24T08:35:25.183Z",
+      "last_pushed_at": "2026-05-24T08:35:25.183Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }
