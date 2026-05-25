@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**104** solved · 97 problems · 5 labs · 2 math
+**105** solved · 98 problems · 5 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -107,6 +107,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement a Dense Block with 2D Convolutions](https://www.deep-ml.com/problems/137) | hard | 2026-04-20 | [solution](problems/0137-implement-a-dense-block-with-2d-convolutions) |
 | [Intra-Option Q-Learning for Temporal Abstraction](https://www.deep-ml.com/problems/652) | hard | 2026-05-12 | [solution](problems/0652-intra-option-q-learning-for-temporal-abstraction) |
 | [Natural Policy Gradient](https://www.deep-ml.com/problems/569) | hard | 2026-05-11 | [solution](problems/0569-natural-policy-gradient) |
+| [Number Format Precision Comparison (FP16 vs BF16 vs FP8 vs FP4)](https://www.deep-ml.com/problems/428) | hard | 2026-05-25 | [solution](problems/0428-number-format-precision-comparison-fp16-vs-bf16-vs-fp8-vs-fp4) |
 | [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-04-14 | [solution](problems/0191-pca-color-augmentation) |
 | [Pre-Norm GPT Transformer Block Forward Pass](https://www.deep-ml.com/problems/1056) | hard | 2026-05-24 | [solution](problems/1056-pre-norm-gpt-transformer-block-forward-pass) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-05-20 | [solution](problems/0201-qr-decomposition) |
