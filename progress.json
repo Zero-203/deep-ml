@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:30:37.982Z",
+  "generated_at": "2026-09-22T07:30:39.582Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1361,6 +1361,45 @@
       "last_pushed_at": "2026-05-25T02:57:19.486Z",
       "language": "python",
       "lines": 182
+    },
+    "problem:179": {
+      "kind": "problem",
+      "id": "179",
+      "title": "Expected Value and Variance of an n-Sided Die",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/179",
+      "path": "problems/0179-expected-value-and-variance-of-an-n-sided-die",
+      "first_solved_at": "2026-05-26T03:12:15.124Z",
+      "last_pushed_at": "2026-05-26T03:12:15.124Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:184": {
+      "kind": "problem",
+      "id": "184",
+      "title": "Empirical Probability Mass Function (PMF)",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/184",
+      "path": "problems/0184-empirical-probability-mass-function-pmf",
+      "first_solved_at": "2026-05-26T03:32:43.195Z",
+      "last_pushed_at": "2026-05-26T03:32:43.195Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:468": {
+      "kind": "problem",
+      "id": "468",
+      "title": "Asynchronous Dynamic Programming for Value Iteration",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/468",
+      "path": "problems/0468-asynchronous-dynamic-programming-for-value-iteration",
+      "first_solved_at": "2026-05-26T15:36:57.790Z",
+      "last_pushed_at": "2026-05-26T15:36:57.790Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
