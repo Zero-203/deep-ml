@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:30:39.582Z",
+  "generated_at": "2026-09-22T07:30:41.206Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1400,6 +1400,19 @@
       "last_pushed_at": "2026-05-26T15:36:57.790Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:33": {
+      "kind": "problem",
+      "id": "33",
+      "title": "Generate Random Subsets of a Dataset",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/33",
+      "path": "problems/0033-generate-random-subsets-of-a-dataset",
+      "first_solved_at": "2026-05-27T14:34:06.419Z",
+      "last_pushed_at": "2026-05-27T14:34:06.419Z",
+      "language": "python",
+      "lines": 39
     }
   }
 }
