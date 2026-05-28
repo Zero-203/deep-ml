@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:30:41.206Z",
+  "generated_at": "2026-09-22T07:30:42.806Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1413,6 +1413,84 @@
       "last_pushed_at": "2026-05-27T14:34:06.419Z",
       "language": "python",
       "lines": 39
+    },
+    "problem:843": {
+      "kind": "problem",
+      "id": "843",
+      "title": "Ordinal Encoding for Categorical Features",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/843",
+      "path": "problems/0843-ordinal-encoding-for-categorical-features",
+      "first_solved_at": "2026-05-28T05:49:50.180Z",
+      "last_pushed_at": "2026-05-28T05:49:50.180Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:168": {
+      "kind": "problem",
+      "id": "168",
+      "title": "Calculate Conditional Probability from Data",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/168",
+      "path": "problems/0168-calculate-conditional-probability-from-data",
+      "first_solved_at": "2026-05-28T06:23:27.629Z",
+      "last_pushed_at": "2026-05-28T06:23:27.629Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:244": {
+      "kind": "problem",
+      "id": "244",
+      "title": "Compute Total Probability using Law of Total Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/244",
+      "path": "problems/0244-compute-total-probability-using-law-of-total-probability",
+      "first_solved_at": "2026-05-28T06:27:30.571Z",
+      "last_pushed_at": "2026-05-28T06:27:30.571Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:336": {
+      "kind": "problem",
+      "id": "336",
+      "title": "Compute Posterior Probability using Bayes' Theorem",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/336",
+      "path": "problems/0336-compute-posterior-probability-using-bayes-theorem",
+      "first_solved_at": "2026-05-28T06:44:14.965Z",
+      "last_pushed_at": "2026-05-28T06:44:14.965Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:180": {
+      "kind": "problem",
+      "id": "180",
+      "title": "Conditional Probability from Joint Distribution",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/180",
+      "path": "problems/0180-conditional-probability-from-joint-distribution",
+      "first_solved_at": "2026-05-28T06:57:30.720Z",
+      "last_pushed_at": "2026-05-28T06:57:30.720Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:243": {
+      "kind": "problem",
+      "id": "243",
+      "title": "Compute Covariance from Joint Probability Mass Function",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/243",
+      "path": "problems/0243-compute-covariance-from-joint-probability-mass-function",
+      "first_solved_at": "2026-05-28T17:02:00.281Z",
+      "last_pushed_at": "2026-05-28T17:02:00.281Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
