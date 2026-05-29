@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:30:42.806Z",
+  "generated_at": "2026-09-22T07:30:44.686Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1491,6 +1491,71 @@
       "last_pushed_at": "2026-05-28T17:02:00.281Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:79": {
+      "kind": "problem",
+      "id": "79",
+      "title": "Binomial Distribution Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/79",
+      "path": "problems/0079-binomial-distribution-probability",
+      "first_solved_at": "2026-05-29T06:15:37.120Z",
+      "last_pushed_at": "2026-05-29T06:15:37.120Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:81": {
+      "kind": "problem",
+      "id": "81",
+      "title": "Poisson Distribution Probability Calculator",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/81",
+      "path": "problems/0081-poisson-distribution-probability-calculator",
+      "first_solved_at": "2026-05-29T06:22:25.443Z",
+      "last_pushed_at": "2026-05-29T06:22:25.443Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:80": {
+      "kind": "problem",
+      "id": "80",
+      "title": "Normal Distribution PDF Calculator",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/80",
+      "path": "problems/0080-normal-distribution-pdf-calculator",
+      "first_solved_at": "2026-05-29T06:31:32.381Z",
+      "last_pushed_at": "2026-05-29T06:31:32.381Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:340": {
+      "kind": "problem",
+      "id": "340",
+      "title": "Exponential Distribution PDF and CDF",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/340",
+      "path": "problems/0340-exponential-distribution-pdf-and-cdf",
+      "first_solved_at": "2026-05-29T06:40:57.161Z",
+      "last_pushed_at": "2026-05-29T06:40:57.161Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:367": {
+      "kind": "problem",
+      "id": "367",
+      "title": "Implement Isolation Forest for Anomaly Detection",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/367",
+      "path": "problems/0367-implement-isolation-forest-for-anomaly-detection",
+      "first_solved_at": "2026-05-29T13:25:22.559Z",
+      "last_pushed_at": "2026-05-29T13:25:22.559Z",
+      "language": "python",
+      "lines": 104
     }
   }
 }
