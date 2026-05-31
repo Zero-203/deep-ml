@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:30:46.739Z",
+  "generated_at": "2026-09-22T07:30:48.551Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1569,6 +1569,71 @@
       "last_pushed_at": "2026-05-30T12:58:13.964Z",
       "language": "python",
       "lines": 133
+    },
+    "problem:291": {
+      "kind": "problem",
+      "id": "291",
+      "title": "Calculate Number of Parameters in Neural Network",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/291",
+      "path": "problems/0291-calculate-number-of-parameters-in-neural-network",
+      "first_solved_at": "2026-05-31T07:20:08.120Z",
+      "last_pushed_at": "2026-05-31T07:20:08.120Z",
+      "language": "python",
+      "lines": 41
+    },
+    "problem:176": {
+      "kind": "problem",
+      "id": "176",
+      "title": "Chi-square Probability Distribution",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/176",
+      "path": "problems/0176-chi-square-probability-distribution",
+      "first_solved_at": "2026-05-31T07:34:32.449Z",
+      "last_pushed_at": "2026-05-31T07:34:32.449Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:339": {
+      "kind": "problem",
+      "id": "339",
+      "title": "Beta Distribution PDF and Statistics",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/339",
+      "path": "problems/0339-beta-distribution-pdf-and-statistics",
+      "first_solved_at": "2026-05-31T07:45:54.136Z",
+      "last_pushed_at": "2026-05-31T07:45:54.136Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:245": {
+      "kind": "problem",
+      "id": "245",
+      "title": "Hypergeometric Distribution PMF",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/245",
+      "path": "problems/0245-hypergeometric-distribution-pmf",
+      "first_solved_at": "2026-05-31T08:02:45.325Z",
+      "last_pushed_at": "2026-05-31T08:02:45.325Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:247": {
+      "kind": "problem",
+      "id": "247",
+      "title": "Negative Binomial Distribution Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/247",
+      "path": "problems/0247-negative-binomial-distribution-probability",
+      "first_solved_at": "2026-05-31T08:09:06.273Z",
+      "last_pushed_at": "2026-05-31T08:09:06.273Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
