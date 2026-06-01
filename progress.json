@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:30:48.551Z",
+  "generated_at": "2026-09-22T07:30:50.531Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1634,6 +1634,45 @@
       "last_pushed_at": "2026-05-31T08:09:06.273Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:1064": {
+      "kind": "problem",
+      "id": "1064",
+      "title": "Build Attention Mask from Pad Tokens",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/1064",
+      "path": "problems/1064-build-attention-mask-from-pad-tokens",
+      "first_solved_at": "2026-06-01T00:28:26.663Z",
+      "last_pushed_at": "2026-06-01T00:28:26.663Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:342": {
+      "kind": "problem",
+      "id": "342",
+      "title": "Demonstrate Law of Large Numbers with Sampling",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/342",
+      "path": "problems/0342-demonstrate-law-of-large-numbers-with-sampling",
+      "first_solved_at": "2026-06-01T00:37:12.804Z",
+      "last_pushed_at": "2026-06-01T00:37:12.804Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:182": {
+      "kind": "problem",
+      "id": "182",
+      "title": "Central Limit Theorem Simulation",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/182",
+      "path": "problems/0182-central-limit-theorem-simulation",
+      "first_solved_at": "2026-06-01T08:29:32.103Z",
+      "last_pushed_at": "2026-06-01T08:29:32.103Z",
+      "language": "python",
+      "lines": 46
     }
   }
 }
