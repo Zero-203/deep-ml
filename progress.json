@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:30:50.531Z",
+  "generated_at": "2026-09-22T07:30:52.161Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1673,6 +1673,45 @@
       "last_pushed_at": "2026-06-01T08:29:32.103Z",
       "language": "python",
       "lines": 46
+    },
+    "problem:940": {
+      "kind": "problem",
+      "id": "940",
+      "title": "Regex-Based Text Tokenizer",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/940",
+      "path": "problems/0940-regex-based-text-tokenizer",
+      "first_solved_at": "2026-06-02T02:56:43.625Z",
+      "last_pushed_at": "2026-06-02T02:56:43.625Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:205": {
+      "kind": "problem",
+      "id": "205",
+      "title": "Entropy & Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Information Theory",
+      "url": "https://www.deep-ml.com/problems/205",
+      "path": "problems/0205-entropy-cross-entropy",
+      "first_solved_at": "2026-06-02T11:54:04.779Z",
+      "last_pushed_at": "2026-06-02T11:54:04.779Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:204": {
+      "kind": "problem",
+      "id": "204",
+      "title": "Mutual Information",
+      "difficulty": "medium",
+      "category": "Information Theory",
+      "url": "https://www.deep-ml.com/problems/204",
+      "path": "problems/0204-mutual-information",
+      "first_solved_at": "2026-06-02T12:01:06.784Z",
+      "last_pushed_at": "2026-06-02T12:01:06.784Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
