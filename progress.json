@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:30:53.783Z",
+  "generated_at": "2026-09-22T07:30:55.390Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1725,6 +1725,45 @@
       "last_pushed_at": "2026-06-03T05:54:47.572Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:56": {
+      "kind": "problem",
+      "id": "56",
+      "title": "KL Divergence Between Two Normal Distributions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/56",
+      "path": "problems/0056-kl-divergence-between-two-normal-distributions",
+      "first_solved_at": "2026-06-04T03:10:11.435Z",
+      "last_pushed_at": "2026-06-04T03:10:11.435Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:136": {
+      "kind": "problem",
+      "id": "136",
+      "title": "Calculate KL Divergence Between Two Multivariate Gaussian Distributions",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/136",
+      "path": "problems/0136-calculate-kl-divergence-between-two-multivariate-gaussian-distributions",
+      "first_solved_at": "2026-06-04T05:04:47.248Z",
+      "last_pushed_at": "2026-06-04T05:04:47.248Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:163": {
+      "kind": "problem",
+      "id": "163",
+      "title": "Gradient Bandit Action Selection",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/163",
+      "path": "problems/0163-gradient-bandit-action-selection",
+      "first_solved_at": "2026-06-04T05:37:56.395Z",
+      "last_pushed_at": "2026-06-04T05:37:56.395Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
