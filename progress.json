@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T12:27:08.167Z",
+  "generated_at": "2026-09-27T08:40:56.442Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1799,6 +1799,19 @@
       "path": "math/0049-pca-via-covariance-eigendecomposition",
       "first_solved_at": "2026-09-23T12:27:08.104Z",
       "last_pushed_at": "2026-09-23T12:27:08.104Z"
+    },
+    "problem:968": {
+      "kind": "problem",
+      "id": "968",
+      "title": "Triton: Vector Addition Kernel",
+      "difficulty": "easy",
+      "category": "Triton",
+      "url": "https://www.deep-ml.com/problems/968",
+      "path": "problems/0968-triton-vector-addition-kernel",
+      "first_solved_at": "2026-06-07T02:20:42.021Z",
+      "last_pushed_at": "2026-06-07T02:20:42.021Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
