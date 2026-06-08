@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**140** solved · 131 problems · 5 labs · 4 math
+**143** solved · 134 problems · 5 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -115,12 +115,15 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-04-26 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-05-10 | [solution](problems/0329-matrix-rank) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-05-06 | [solution](problems/0009-matrix-times-matrix) |
+| [Maximum A Posteriori (MAP) Estimation for Bernoulli Parameter](https://www.deep-ml.com/problems/338) | medium | 2026-06-08 | [solution](problems/0338-maximum-a-posteriori-map-estimation-for-bernoulli-parameter) |
+| [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-06-08 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
 | [Multi-Token Prediction Training Objective](https://www.deep-ml.com/problems/745) | medium | 2026-05-03 | [solution](problems/0745-multi-token-prediction-training-objective) |
 | [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2026-06-02 | [solution](problems/0204-mutual-information) |
 | [N-gram Overlap Contamination Detection](https://www.deep-ml.com/problems/767) | medium | 2026-05-10 | [solution](problems/0767-n-gram-overlap-contamination-detection) |
 | [Negative Binomial Distribution Probability](https://www.deep-ml.com/problems/247) | medium | 2026-05-31 | [solution](problems/0247-negative-binomial-distribution-probability) |
 | [Newton's Method for Optimization](https://www.deep-ml.com/problems/221) | medium | 2026-04-29 | [solution](problems/0221-newton-s-method-for-optimization) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-05-29 | [solution](problems/0080-normal-distribution-pdf-calculator) |
+| [Novel View Synthesis with Depth Reprojection](https://www.deep-ml.com/problems/499) | medium | 2026-06-08 | [solution](problems/0499-novel-view-synthesis-with-depth-reprojection) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-04-27 | [solution](problems/0313-numerical-gradient-checking) |
 | [Ordinal Encoding for Categorical Features](https://www.deep-ml.com/problems/843) | medium | 2026-05-28 | [solution](problems/0843-ordinal-encoding-for-categorical-features) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-04-13 | [solution](problems/0190-overlapping-max-pooling) |

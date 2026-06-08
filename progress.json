@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T08:40:56.442Z",
+  "generated_at": "2026-09-27T08:40:58.356Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1812,6 +1812,45 @@
       "last_pushed_at": "2026-06-07T02:20:42.021Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:499": {
+      "kind": "problem",
+      "id": "499",
+      "title": "Novel View Synthesis with Depth Reprojection",
+      "difficulty": "medium",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/499",
+      "path": "problems/0499-novel-view-synthesis-with-depth-reprojection",
+      "first_solved_at": "2026-06-08T03:18:25.392Z",
+      "last_pushed_at": "2026-06-08T03:18:25.392Z",
+      "language": "python",
+      "lines": 42
+    },
+    "problem:337": {
+      "kind": "problem",
+      "id": "337",
+      "title": "Maximum Likelihood Estimation for Gaussian Distribution",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/337",
+      "path": "problems/0337-maximum-likelihood-estimation-for-gaussian-distribution",
+      "first_solved_at": "2026-06-08T10:57:00.040Z",
+      "last_pushed_at": "2026-06-08T10:57:00.040Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:338": {
+      "kind": "problem",
+      "id": "338",
+      "title": "Maximum A Posteriori (MAP) Estimation for Bernoulli Parameter",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/338",
+      "path": "problems/0338-maximum-a-posteriori-map-estimation-for-bernoulli-parameter",
+      "first_solved_at": "2026-06-08T11:03:30.070Z",
+      "last_pushed_at": "2026-06-08T11:03:30.070Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
