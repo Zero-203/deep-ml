@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T08:41:00.120Z",
+  "generated_at": "2026-09-27T08:41:01.631Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1864,6 +1864,58 @@
       "last_pushed_at": "2026-06-09T11:56:30.019Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:789": {
+      "kind": "problem",
+      "id": "789",
+      "title": "Model FLOPs Utilization (MFU) Calculator",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/789",
+      "path": "problems/0789-model-flops-utilization-mfu-calculator",
+      "first_solved_at": "2026-06-10T01:23:33.270Z",
+      "last_pushed_at": "2026-06-10T01:23:33.270Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:212": {
+      "kind": "problem",
+      "id": "212",
+      "title": "Confidence Interval for Population Mean",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/212",
+      "path": "problems/0212-confidence-interval-for-population-mean",
+      "first_solved_at": "2026-06-10T08:50:30.582Z",
+      "last_pushed_at": "2026-06-10T08:50:30.582Z",
+      "language": "python",
+      "lines": 38
+    },
+    "problem:211": {
+      "kind": "problem",
+      "id": "211",
+      "title": "Two-Sample T-Test Implementation",
+      "difficulty": "hard",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/211",
+      "path": "problems/0211-two-sample-t-test-implementation",
+      "first_solved_at": "2026-06-10T11:44:14.532Z",
+      "last_pushed_at": "2026-06-10T11:44:14.532Z",
+      "language": "python",
+      "lines": 43
+    },
+    "problem:296": {
+      "kind": "problem",
+      "id": "296",
+      "title": "Calculate Statistical Power for Experiment Design",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/296",
+      "path": "problems/0296-calculate-statistical-power-for-experiment-design",
+      "first_solved_at": "2026-06-10T11:51:53.950Z",
+      "last_pushed_at": "2026-06-10T11:51:53.950Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
