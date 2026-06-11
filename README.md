@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**148** solved · 139 problems · 5 labs · 4 math
+**149** solved · 140 problems · 5 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -151,6 +151,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [PCA Color Augmentation](https://www.deep-ml.com/problems/191) | hard | 2026-04-14 | [solution](problems/0191-pca-color-augmentation) |
 | [Pre-Norm GPT Transformer Block Forward Pass](https://www.deep-ml.com/problems/1056) | hard | 2026-05-24 | [solution](problems/1056-pre-norm-gpt-transformer-block-forward-pass) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-05-20 | [solution](problems/0201-qr-decomposition) |
+| [REINFORCE with Value Baseline](https://www.deep-ml.com/problems/552) | hard | 2026-06-11 | [solution](problems/0552-reinforce-with-value-baseline) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-05-20 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [Two-Sample T-Test Implementation](https://www.deep-ml.com/problems/211) | hard | 2026-06-10 | [solution](problems/0211-two-sample-t-test-implementation) |
 
