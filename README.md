@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**149** solved · 140 problems · 5 labs · 4 math
+**150** solved · 141 problems · 5 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -49,6 +49,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Model FLOPs Utilization (MFU) Calculator](https://www.deep-ml.com/problems/789) | easy | 2026-06-10 | [solution](problems/0789-model-flops-utilization-mfu-calculator) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-04-28 | [solution](problems/0146-momentum-optimizer) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-05-29 | [solution](problems/0081-poisson-distribution-probability-calculator) |
+| [Quality Filtering with Rejection Sampling](https://www.deep-ml.com/problems/508) | easy | 2026-06-12 | [solution](problems/0508-quality-filtering-with-rejection-sampling) |
 | [Regex-Based Text Tokenizer](https://www.deep-ml.com/problems/940) | easy | 2026-06-02 | [solution](problems/0940-regex-based-text-tokenizer) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-05-06 | [solution](problems/0003-reshape-matrix) |
 | [Sampling Distribution of the Mean](https://www.deep-ml.com/problems/181) | easy | 2026-04-30 | [solution](problems/0181-sampling-distribution-of-the-mean) |

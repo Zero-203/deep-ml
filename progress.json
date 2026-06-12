@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T08:41:03.468Z",
+  "generated_at": "2026-09-27T08:41:05.090Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1929,6 +1929,19 @@
       "last_pushed_at": "2026-06-11T13:58:13.577Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:508": {
+      "kind": "problem",
+      "id": "508",
+      "title": "Quality Filtering with Rejection Sampling",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/508",
+      "path": "problems/0508-quality-filtering-with-rejection-sampling",
+      "first_solved_at": "2026-06-12T03:50:20.602Z",
+      "last_pushed_at": "2026-06-12T03:50:20.602Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
