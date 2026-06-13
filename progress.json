@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T08:41:05.090Z",
+  "generated_at": "2026-09-27T08:41:06.738Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1942,6 +1942,19 @@
       "last_pushed_at": "2026-06-12T03:50:20.602Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:165": {
+      "kind": "problem",
+      "id": "165",
+      "title": "Compute Discounted Return",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/165",
+      "path": "problems/0165-compute-discounted-return",
+      "first_solved_at": "2026-06-13T06:04:12.930Z",
+      "last_pushed_at": "2026-06-13T06:04:12.930Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
