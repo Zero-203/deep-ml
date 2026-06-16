@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**152** solved · 143 problems · 5 labs · 4 math
+**153** solved · 144 problems · 5 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -124,6 +124,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-05-06 | [solution](problems/0009-matrix-times-matrix) |
 | [Maximum A Posteriori (MAP) Estimation for Bernoulli Parameter](https://www.deep-ml.com/problems/338) | medium | 2026-06-08 | [solution](problems/0338-maximum-a-posteriori-map-estimation-for-bernoulli-parameter) |
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-06-08 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
+| [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-06-16 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Multi-Token Prediction Training Objective](https://www.deep-ml.com/problems/745) | medium | 2026-05-03 | [solution](problems/0745-multi-token-prediction-training-objective) |
 | [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2026-06-02 | [solution](problems/0204-mutual-information) |
 | [N-gram Overlap Contamination Detection](https://www.deep-ml.com/problems/767) | medium | 2026-05-10 | [solution](problems/0767-n-gram-overlap-contamination-detection) |
