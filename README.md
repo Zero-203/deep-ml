@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**158** solved · 149 problems · 5 labs · 4 math
+**159** solved · 150 problems · 5 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -86,6 +86,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Total Probability using Law of Total Probability](https://www.deep-ml.com/problems/244) | medium | 2026-05-28 | [solution](problems/0244-compute-total-probability-using-law-of-total-probability) |
 | [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2026-05-28 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
 | [Confidence Interval for Population Mean](https://www.deep-ml.com/problems/212) | medium | 2026-06-10 | [solution](problems/0212-confidence-interval-for-population-mean) |
+| [DDIM Deterministic Sampling Step](https://www.deep-ml.com/problems/398) | medium | 2026-06-24 | [solution](problems/0398-ddim-deterministic-sampling-step) |
 | [Decision Tree Pruning with Cost-Complexity](https://www.deep-ml.com/problems/285) | medium | 2026-05-13 | [solution](problems/0285-decision-tree-pruning-with-cost-complexity) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-04-26 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-04-26 | [solution](problems/0219-derivative-of-softmax) |
