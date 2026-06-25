@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**159** solved · 150 problems · 5 labs · 4 math
+**160** solved · 151 problems · 5 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -57,6 +57,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-05-06 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Step-Size Selection for Tile Coding](https://www.deep-ml.com/problems/608) | easy | 2026-05-02 | [solution](problems/0608-step-size-selection-for-tile-coding) |
 | [Stop-Gradient Operator in Jointly Trained Models](https://www.deep-ml.com/problems/711) | easy | 2026-05-18 | [solution](problems/0711-stop-gradient-operator-in-jointly-trained-models) |
+| [Tanh Logit Soft-Capping](https://www.deep-ml.com/problems/1049) | easy | 2026-06-25 | [solution](problems/1049-tanh-logit-soft-capping) |
 | [Taylor Series Approximation](https://www.deep-ml.com/problems/310) | easy | 2026-04-28 | [solution](problems/0310-taylor-series-approximation) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-05-06 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Triton: Vector Addition Kernel](https://www.deep-ml.com/problems/968) | easy | 2026-06-07 | [solution](problems/0968-triton-vector-addition-kernel) |
