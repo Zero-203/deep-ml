@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**161** solved · 152 problems · 5 labs · 4 math
+**162** solved · 153 problems · 5 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -94,6 +94,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-04-26 | [solution](problems/0219-derivative-of-softmax) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-04-14 | [solution](problems/0151-dropout-layer) |
 | [Efficient Task Switching with LoRA Weight Swapping](https://www.deep-ml.com/problems/871) | medium | 2026-05-19 | [solution](problems/0871-efficient-task-switching-with-lora-weight-swapping) |
+| [Elbow Method for K-Means](https://www.deep-ml.com/problems/827) | medium | 2026-06-27 | [solution](problems/0827-elbow-method-for-k-means) |
 | [Engram Context-Aware Gating](https://www.deep-ml.com/problems/327) | medium | 2026-05-04 | [solution](problems/0327-engram-context-aware-gating) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-06-02 | [solution](problems/0205-entropy-cross-entropy) |
 | [Evaluate Expected Value in a Markov Decision Process](https://www.deep-ml.com/problems/166) | medium | 2026-04-28 | [solution](problems/0166-evaluate-expected-value-in-a-markov-decision-process) |
