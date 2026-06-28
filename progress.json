@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T08:41:23.289Z",
+  "generated_at": "2026-09-27T08:41:24.820Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -2098,6 +2098,19 @@
       "last_pushed_at": "2026-06-27T14:50:25.870Z",
       "language": "python",
       "lines": 41
+    },
+    "problem:665": {
+      "kind": "problem",
+      "id": "665",
+      "title": "Episodic Info Dictionary Aggregation",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/665",
+      "path": "problems/0665-episodic-info-dictionary-aggregation",
+      "first_solved_at": "2026-06-28T12:37:17.839Z",
+      "last_pushed_at": "2026-06-28T12:37:17.839Z",
+      "language": "python",
+      "lines": 42
     }
   }
 }

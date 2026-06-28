@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**162** solved · 153 problems · 5 labs · 4 math
+**163** solved · 154 problems · 5 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -34,6 +34,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-05-23 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-05-03 | [solution](problems/0083-dot-product-calculator) |
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2026-05-26 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
+| [Episodic Info Dictionary Aggregation](https://www.deep-ml.com/problems/665) | easy | 2026-06-28 | [solution](problems/0665-episodic-info-dictionary-aggregation) |
 | [Estimate Action Values Using Sample Averaging](https://www.deep-ml.com/problems/543) | easy | 2026-04-21 | [solution](problems/0543-estimate-action-values-using-sample-averaging) |
 | [Estimate Minimum GPU Count for Model Deployment](https://www.deep-ml.com/problems/412) | easy | 2026-05-21 | [solution](problems/0412-estimate-minimum-gpu-count-for-model-deployment) |
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-05-26 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
