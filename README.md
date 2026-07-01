@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**165** solved · 156 problems · 5 labs · 4 math
+**166** solved · 157 problems · 5 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -44,6 +44,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-04-16 | [solution](problems/0114-implement-global-average-pooling) |
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-05-19 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-04-12 | [solution](problems/0042-implement-relu-activation-function) |
+| [Implement SwiGLU activation function](https://www.deep-ml.com/problems/156) | easy | 2026-07-01 | [solution](problems/0156-implement-swiglu-activation-function) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-06-04 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
 | [L2 Normalization Along an Axis](https://www.deep-ml.com/problems/1022) | easy | 2026-05-23 | [solution](problems/1022-l2-normalization-along-an-axis) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-04-28 | [solution](problems/0015-linear-regression-using-gradient-descent) |
