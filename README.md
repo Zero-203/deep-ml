@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**166** solved · 157 problems · 5 labs · 4 math
+**167** solved · 158 problems · 5 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -127,6 +127,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-04-26 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Jensen-Shannon Divergence](https://www.deep-ml.com/problems/203) | medium | 2026-05-06 | [solution](problems/0203-jensen-shannon-divergence) |
 | [Lagrange Multipliers for Constrained Quadratic Optimization](https://www.deep-ml.com/problems/314) | medium | 2026-05-01 | [solution](problems/0314-lagrange-multipliers-for-constrained-quadratic-optimization) |
+| [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-07-02 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Lock-Free Synchronization with Shared Flags](https://www.deep-ml.com/problems/658) | medium | 2026-05-17 | [solution](problems/0658-lock-free-synchronization-with-shared-flags) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-04-26 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-05-10 | [solution](problems/0329-matrix-rank) |
