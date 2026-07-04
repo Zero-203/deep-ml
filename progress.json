@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T08:41:32.848Z",
+  "generated_at": "2026-09-27T08:41:34.367Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -2176,6 +2176,19 @@
       "last_pushed_at": "2026-07-03T15:41:16.378Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:973": {
+      "kind": "problem",
+      "id": "973",
+      "title": "Triton: Numerically Stable Fused Softmax",
+      "difficulty": "medium",
+      "category": "Triton",
+      "url": "https://www.deep-ml.com/problems/973",
+      "path": "problems/0973-triton-numerically-stable-fused-softmax",
+      "first_solved_at": "2026-07-04T15:45:05.935Z",
+      "last_pushed_at": "2026-07-04T15:45:05.935Z",
+      "language": "python",
+      "lines": 49
     }
   }
 }

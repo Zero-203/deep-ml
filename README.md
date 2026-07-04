@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**168** solved · 159 problems · 5 labs · 4 math
+**169** solved · 160 problems · 5 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -159,6 +159,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tensor Parallelism All-Reduce Communication Cost](https://www.deep-ml.com/problems/438) | medium | 2026-06-30 | [solution](problems/0438-tensor-parallelism-all-reduce-communication-cost) |
 | [Tokens-per-Second Throughput from Inference Intervals](https://www.deep-ml.com/problems/1032) | medium | 2026-06-03 | [solution](problems/1032-tokens-per-second-throughput-from-inference-intervals) |
 | [Train a Sparse Autoencoder on Residual-Stream Activations](https://www.deep-ml.com/problems/851) | medium | 2026-05-14 | [solution](problems/0851-train-a-sparse-autoencoder-on-residual-stream-activations) |
+| [Triton: Numerically Stable Fused Softmax](https://www.deep-ml.com/problems/973) | medium | 2026-07-04 | [solution](problems/0973-triton-numerically-stable-fused-softmax) |
 | [A/B Test Statistical Analysis for Model Comparison](https://www.deep-ml.com/problems/269) | hard | 2026-04-27 | [solution](problems/0269-a-b-test-statistical-analysis-for-model-comparison) |
 | [Blocking Maze with Model Updates](https://www.deep-ml.com/problems/614) | hard | 2026-05-30 | [solution](problems/0614-blocking-maze-with-model-updates) |
 | [Disaggregated Prefill-Decode Serving Simulator](https://www.deep-ml.com/problems/440) | hard | 2026-04-22 | [solution](problems/0440-disaggregated-prefill-decode-serving-simulator) |
