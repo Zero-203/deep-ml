@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T08:41:37.570Z",
+  "generated_at": "2026-09-27T08:41:39.130Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -2215,6 +2215,45 @@
       "last_pushed_at": "2026-07-06T12:33:52.784Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:185": {
+      "kind": "problem",
+      "id": "185",
+      "title": "Optical Flow EPE with Masks (OmniWorld-style metric)",
+      "difficulty": "medium",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/185",
+      "path": "problems/0185-optical-flow-epe-with-masks-omniworld-style-metric",
+      "first_solved_at": "2026-07-07T03:29:43.029Z",
+      "last_pushed_at": "2026-07-07T03:29:43.029Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:213": {
+      "kind": "problem",
+      "id": "213",
+      "title": "Bayesian Inference for Beta-Binomial Model",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/213",
+      "path": "problems/0213-bayesian-inference-for-beta-binomial-model",
+      "first_solved_at": "2026-07-07T05:30:40.454Z",
+      "last_pushed_at": "2026-07-07T05:30:40.454Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:206": {
+      "kind": "problem",
+      "id": "206",
+      "title": "Variational Inference: ELBO Computation",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/206",
+      "path": "problems/0206-variational-inference-elbo-computation",
+      "first_solved_at": "2026-07-07T05:49:13.751Z",
+      "last_pushed_at": "2026-07-07T05:49:13.751Z",
+      "language": "python",
+      "lines": 72
     }
   }
 }

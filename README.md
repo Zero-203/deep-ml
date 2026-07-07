@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**171** solved · 162 problems · 5 labs · 4 math
+**174** solved · 165 problems · 5 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -68,6 +68,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-05-06 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [Asynchronous Dynamic Programming for Value Iteration](https://www.deep-ml.com/problems/468) | medium | 2026-05-26 | [solution](problems/0468-asynchronous-dynamic-programming-for-value-iteration) |
 | [BatchNorm1d Supporting 2D and 3D Inputs](https://www.deep-ml.com/problems/1005) | medium | 2026-06-29 | [solution](problems/1005-batchnorm1d-supporting-2d-and-3d-inputs) |
+| [Bayesian Inference for Beta-Binomial Model](https://www.deep-ml.com/problems/213) | medium | 2026-07-07 | [solution](problems/0213-bayesian-inference-for-beta-binomial-model) |
 | [Beta Distribution PDF and Statistics](https://www.deep-ml.com/problems/339) | medium | 2026-05-31 | [solution](problems/0339-beta-distribution-pdf-and-statistics) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-05-29 | [solution](problems/0079-binomial-distribution-probability) |
 | [BLEU Score for Text Generation](https://www.deep-ml.com/problems/321) | medium | 2026-05-08 | [solution](problems/0321-bleu-score-for-text-generation) |
@@ -146,6 +147,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-05-29 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Novel View Synthesis with Depth Reprojection](https://www.deep-ml.com/problems/499) | medium | 2026-06-08 | [solution](problems/0499-novel-view-synthesis-with-depth-reprojection) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-04-27 | [solution](problems/0313-numerical-gradient-checking) |
+| [Optical Flow EPE with Masks (OmniWorld-style metric)](https://www.deep-ml.com/problems/185) | medium | 2026-07-07 | [solution](problems/0185-optical-flow-epe-with-masks-omniworld-style-metric) |
 | [Ordinal Encoding for Categorical Features](https://www.deep-ml.com/problems/843) | medium | 2026-05-28 | [solution](problems/0843-ordinal-encoding-for-categorical-features) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-04-13 | [solution](problems/0190-overlapping-max-pooling) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-04-25 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
@@ -176,6 +178,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [REINFORCE with Value Baseline](https://www.deep-ml.com/problems/552) | hard | 2026-06-11 | [solution](problems/0552-reinforce-with-value-baseline) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-05-20 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [Two-Sample T-Test Implementation](https://www.deep-ml.com/problems/211) | hard | 2026-06-10 | [solution](problems/0211-two-sample-t-test-implementation) |
+| [Variational Inference: ELBO Computation](https://www.deep-ml.com/problems/206) | hard | 2026-07-07 | [solution](problems/0206-variational-inference-elbo-computation) |
 
 ## Labs
 
