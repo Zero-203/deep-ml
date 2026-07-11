@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T08:41:39.130Z",
+  "generated_at": "2026-09-27T08:41:40.950Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -2254,6 +2254,19 @@
       "last_pushed_at": "2026-07-07T05:49:13.751Z",
       "language": "python",
       "lines": 72
+    },
+    "problem:962": {
+      "kind": "problem",
+      "id": "962",
+      "title": "Compare Naive vs Stable Softmax for Attention Scores",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/962",
+      "path": "problems/0962-compare-naive-vs-stable-softmax-for-attention-scores",
+      "first_solved_at": "2026-07-11T15:47:40.689Z",
+      "last_pushed_at": "2026-07-11T15:47:40.689Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }
