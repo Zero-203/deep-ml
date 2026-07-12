@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**175** solved · 166 problems · 5 labs · 4 math
+**176** solved · 167 problems · 5 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -152,6 +152,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Ordinal Encoding for Categorical Features](https://www.deep-ml.com/problems/843) | medium | 2026-05-28 | [solution](problems/0843-ordinal-encoding-for-categorical-features) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-04-13 | [solution](problems/0190-overlapping-max-pooling) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-04-25 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
+| [Perceptual Image Distance from Deep Features](https://www.deep-ml.com/problems/687) | medium | 2026-07-12 | [solution](problems/0687-perceptual-image-distance-from-deep-features) |
 | [Prioritized Experience Replay](https://www.deep-ml.com/problems/591) | medium | 2026-06-19 | [solution](problems/0591-prioritized-experience-replay) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-04-25 | [solution](problems/0309-product-rule-for-derivatives) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-04-25 | [solution](problems/0312-quotient-rule-for-derivatives) |
