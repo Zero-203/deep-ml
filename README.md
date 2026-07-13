@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**176** solved · 167 problems · 5 labs · 4 math
+**177** solved · 168 problems · 5 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -167,6 +167,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Train a Sparse Autoencoder on Residual-Stream Activations](https://www.deep-ml.com/problems/851) | medium | 2026-05-14 | [solution](problems/0851-train-a-sparse-autoencoder-on-residual-stream-activations) |
 | [Triton: Numerically Stable Fused Softmax](https://www.deep-ml.com/problems/973) | medium | 2026-07-04 | [solution](problems/0973-triton-numerically-stable-fused-softmax) |
 | [A/B Test Statistical Analysis for Model Comparison](https://www.deep-ml.com/problems/269) | hard | 2026-04-27 | [solution](problems/0269-a-b-test-statistical-analysis-for-model-comparison) |
+| [Beam Search with Memory-Efficient Block Sharing](https://www.deep-ml.com/problems/496) | hard | 2026-07-13 | [solution](problems/0496-beam-search-with-memory-efficient-block-sharing) |
 | [Blocking Maze with Model Updates](https://www.deep-ml.com/problems/614) | hard | 2026-05-30 | [solution](problems/0614-blocking-maze-with-model-updates) |
 | [Disaggregated Prefill-Decode Serving Simulator](https://www.deep-ml.com/problems/440) | hard | 2026-04-22 | [solution](problems/0440-disaggregated-prefill-decode-serving-simulator) |
 | [Fused Backward Pass of BatchNorm1d](https://www.deep-ml.com/problems/1002) | hard | 2026-06-22 | [solution](problems/1002-fused-backward-pass-of-batchnorm1d) |
