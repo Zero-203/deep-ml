@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T08:41:44.154Z",
+  "generated_at": "2026-09-27T08:41:45.771Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -2293,6 +2293,19 @@
       "last_pushed_at": "2026-07-13T15:55:10.066Z",
       "language": "python",
       "lines": 208
+    },
+    "problem:713": {
+      "kind": "problem",
+      "id": "713",
+      "title": "Compute PSNR for Image Reconstruction Quality",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/713",
+      "path": "problems/0713-compute-psnr-for-image-reconstruction-quality",
+      "first_solved_at": "2026-07-15T15:09:35.907Z",
+      "last_pushed_at": "2026-07-15T15:09:35.907Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
