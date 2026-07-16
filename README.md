@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**178** solved · 169 problems · 5 labs · 4 math
+**181** solved · 172 problems · 5 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -108,6 +108,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-04-29 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-05-18 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-05-13 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
+| [Gaussian Mixture Model with EM Algorithm](https://www.deep-ml.com/problems/341) | medium | 2026-07-16 | [solution](problems/0341-gaussian-mixture-model-with-em-algorithm) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2026-05-27 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Gradient Bandit Action Selection](https://www.deep-ml.com/problems/163) | medium | 2026-06-04 | [solution](problems/0163-gradient-bandit-action-selection) |
 | [Greedy Streaming Decoder with KV Cache](https://www.deep-ml.com/problems/1055) | medium | 2026-07-03 | [solution](problems/1055-greedy-streaming-decoder-with-kv-cache) |
@@ -157,9 +158,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Prioritized Experience Replay](https://www.deep-ml.com/problems/591) | medium | 2026-06-19 | [solution](problems/0591-prioritized-experience-replay) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-04-25 | [solution](problems/0309-product-rule-for-derivatives) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-04-25 | [solution](problems/0312-quotient-rule-for-derivatives) |
+| [RL Backup Diagram Generator](https://www.deep-ml.com/problems/613) | medium | 2026-07-16 | [solution](problems/0613-rl-backup-diagram-generator) |
 | [Rotary Positional Embeddings (RoPE)](https://www.deep-ml.com/problems/381) | medium | 2026-04-23 | [solution](problems/0381-rotary-positional-embeddings-rope) |
 | [Self-Critique Loss for Constitutional AI](https://www.deep-ml.com/problems/863) | medium | 2026-06-19 | [solution](problems/0863-self-critique-loss-for-constitutional-ai) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-04-12 | [solution](problems/0041-simple-convolutional-2d-layer) |
+| [Simulate Markov Chain Transitions](https://www.deep-ml.com/problems/132) | medium | 2026-07-16 | [solution](problems/0132-simulate-markov-chain-transitions) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-04-15 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-05-18 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Storage-Pointer-Based Recomputation Deduplication](https://www.deep-ml.com/problems/743) | medium | 2026-05-01 | [solution](problems/0743-storage-pointer-based-recomputation-deduplication) |

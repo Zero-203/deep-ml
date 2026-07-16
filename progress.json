@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T08:41:45.771Z",
+  "generated_at": "2026-09-27T08:41:47.502Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -2306,6 +2306,45 @@
       "last_pushed_at": "2026-07-15T15:09:35.907Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:613": {
+      "kind": "problem",
+      "id": "613",
+      "title": "RL Backup Diagram Generator",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/613",
+      "path": "problems/0613-rl-backup-diagram-generator",
+      "first_solved_at": "2026-07-16T07:46:54.622Z",
+      "last_pushed_at": "2026-07-16T07:46:54.622Z",
+      "language": "python",
+      "lines": 78
+    },
+    "problem:132": {
+      "kind": "problem",
+      "id": "132",
+      "title": "Simulate Markov Chain Transitions",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/132",
+      "path": "problems/0132-simulate-markov-chain-transitions",
+      "first_solved_at": "2026-07-16T14:09:11.049Z",
+      "last_pushed_at": "2026-07-16T14:09:11.049Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:341": {
+      "kind": "problem",
+      "id": "341",
+      "title": "Gaussian Mixture Model with EM Algorithm",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/341",
+      "path": "problems/0341-gaussian-mixture-model-with-em-algorithm",
+      "first_solved_at": "2026-07-16T14:33:59.645Z",
+      "last_pushed_at": "2026-07-16T14:33:59.645Z",
+      "language": "python",
+      "lines": 60
     }
   }
 }
