@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**58** solved · 54 problems · 3 labs · 1 math
+**59** solved · 54 problems · 3 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -82,6 +82,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Gram–Schmidt and Orthonormal Bases](https://www.deep-ml.com/math-problems/47) | medium | 2026-09-21 | [solution](math/0047-gram-schmidt-and-orthonormal-bases) |
+| [Pseudoinverse and Minimum-Norm Least Squares](https://www.deep-ml.com/math-problems/48) | medium | 2026-09-21 | [solution](math/0048-pseudoinverse-and-minimum-norm-least-squares) |
 
 ---
 
