@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T02:04:36.484Z",
+  "generated_at": "2026-09-23T12:27:08.167Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1788,6 +1788,17 @@
       "path": "math/0050-positive-definite-matrices-and-quadratic-forms",
       "first_solved_at": "2026-09-23T02:04:32.848Z",
       "last_pushed_at": "2026-09-23T02:04:32.848Z"
+    },
+    "math:49": {
+      "kind": "math",
+      "id": "49",
+      "title": "PCA via Covariance Eigendecomposition",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/49",
+      "path": "math/0049-pca-via-covariance-eigendecomposition",
+      "first_solved_at": "2026-09-23T12:27:08.104Z",
+      "last_pushed_at": "2026-09-23T12:27:08.104Z"
     }
   }
 }
