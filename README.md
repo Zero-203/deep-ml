@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**181** solved · 172 problems · 5 labs · 4 math
+**182** solved · 172 problems · 5 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -201,6 +201,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-09-29 | [solution](math/0030-ml-workflow-basics) |
 | [Gram–Schmidt and Orthonormal Bases](https://www.deep-ml.com/math-problems/47) | medium | 2026-09-21 | [solution](math/0047-gram-schmidt-and-orthonormal-bases) |
 | [PCA via Covariance Eigendecomposition](https://www.deep-ml.com/math-problems/49) | medium | 2026-09-23 | [solution](math/0049-pca-via-covariance-eigendecomposition) |
 | [Positive Definite Matrices and Quadratic Forms](https://www.deep-ml.com/math-problems/50) | medium | 2026-09-23 | [solution](math/0050-positive-definite-matrices-and-quadratic-forms) |
