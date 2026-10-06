@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T02:46:50.508Z",
+  "generated_at": "2026-10-06T09:11:26.439Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -2367,6 +2367,19 @@
       "path": "math/0040-logistic-regression-as-maximum-likelihood",
       "first_solved_at": "2026-09-30T02:46:49.747Z",
       "last_pushed_at": "2026-09-30T02:46:49.747Z"
+    },
+    "lab:3d26c3f9-cb73-4ab1-bc4d-86cfab2af6d1": {
+      "kind": "lab",
+      "id": "3d26c3f9-cb73-4ab1-bc4d-86cfab2af6d1",
+      "title": "Split the Data Honestly and Beat a Baseline",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/labs/3d26c3f9-cb73-4ab1-bc4d-86cfab2af6d1",
+      "path": "labs/3d26c3f9-cb73-4ab1-bc4d-86cfab2af6d1-split-the-data-honestly-and-beat-a-baseline",
+      "first_solved_at": "2026-10-06T09:11:27.781Z",
+      "last_pushed_at": "2026-10-06T09:11:27.781Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
