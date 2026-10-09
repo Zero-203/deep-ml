@@ -2,8 +2,8 @@ import numpy as np
 
 # 超参数（与原代码保持一致）
 hidden_1, hidden_2 = 128, 32
-epochs = 25
-lr = 0.01
+epochs = 50
+lr = 0.001
 np.random.seed(42)
 
 def train(X_train, y_train, X_val, y_val):
