@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**185** solved · 172 problems · 7 labs · 6 math
+**186** solved · 173 problems · 7 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -52,6 +52,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-04-28 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-05-06 | [solution](problems/0195-matrix-determinant-trace) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-04-17 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-11-25 | [solution](problems/1228-mean-squared-error-from-scratch) |
 | [Model FLOPs Utilization (MFU) Calculator](https://www.deep-ml.com/problems/789) | easy | 2026-06-10 | [solution](problems/0789-model-flops-utilization-mfu-calculator) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-04-28 | [solution](problems/0146-momentum-optimizer) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-05-29 | [solution](problems/0081-poisson-distribution-probability-calculator) |
